@@ -2,12 +2,12 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "C94329WK33.com.hiscene.application",
-            "paths": ["*"]
+            "appID": "C94329WK33.com.tengyun.yynar",
+            "paths": ["/mutating/Assets/master/"]
             },
             {
-            "appID": "9Q2JNSZV5H.com.hiscene.application",
-            "paths": ["*"]
+            "appID": "9Q2JNSZV5H.com.tengyun.yynar",
+            "paths": ["/mutating/Assets/master/"]
         }]
     }
 }
